@@ -223,5 +223,15 @@ ul, ol{
 	-webkit-border-radius: 10px 10px 10px 10px;
 }
 
+#map1{
+	position: relative;
+	width:600px;
+	height:360px;
+	left: 100px;
+	padding: 20px 20px;
+}
+
+
+
 
 
